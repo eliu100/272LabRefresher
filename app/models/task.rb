@@ -7,5 +7,4 @@ class Task < ApplicationRecord
 
     scope :alphabetical, -> { order('name')}
     scope :active, -> { where(active: true)}
-
 end
