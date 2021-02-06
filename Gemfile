@@ -15,6 +15,7 @@ gem 'puma', '3.11.0'
 gem 'sass-rails', '5.0.7'
 # Use Uglifier as compressor for JavaScript assets
 gem 'uglifier', '4.1.2'
+gem 'turbolinks'
 # See https://github.com/rails/execjs#readme for more supported runtimes
 # gem 'therubyracer', platforms: :ruby
 
